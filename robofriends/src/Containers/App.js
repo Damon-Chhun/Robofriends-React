@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
-import CardArray from './CardArray'
-import Searchbox from './Searchbox'
+import CardArray from '../Components/CardArray'
+import Searchbox from '../Components/Searchbox'
 import "./App.css";
-import Scroll from './Scroll'
+import Scroll from '../Components/Scroll'
 
 class App extends Component {
     constructor() {
